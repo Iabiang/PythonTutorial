@@ -21,5 +21,6 @@
 `%timeit filename.py` : gives the execution time  
 
 ##### Editing 
-`!type filename.py` : shows the content of the file  
+`!type filename.py` : shows the content of the file in windows  
+`cat filename.py` : shows the content of the file in windows  
 `!code filename.py` : open editor (*opens vscode*)
