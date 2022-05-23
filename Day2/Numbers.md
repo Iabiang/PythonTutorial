@@ -3,7 +3,7 @@
 
 #### Intergers
 
- `a = 5`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Type int
+ >a = 5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Type int
 
 #### Float
 
