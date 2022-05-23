@@ -17,9 +17,9 @@
 ##### Magic Shortcuts
 
 `%run filename.py` : run file in ipython shell  
-`%save -r "filename.py" 1-2` : save the number of lines in a python file from the shell  
-`%timeit "filename.py"` : gives the execution time  
+`%save -r filename.py 1-2` : save the number of lines in a python file from the shell  
+`%timeit filename.py` : gives the execution time  
 
 ##### Editing 
-`!type "filename.py"` : shows the content of the file  
-`!code "filename.py"` : open editor (*opens vscode*)
+`!type filename.py` : shows the content of the file  
+`!code filename.py` : open editor (*opens vscode*)
