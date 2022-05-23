@@ -1,7 +1,7 @@
 ### Built-in module
 
 
-#### random module
+#### Random module
 
 **import random**
 
