@@ -3,33 +3,33 @@
 
 #### Intergers
 
- >a = 5&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Type int
+ `a = 5`&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Type int
 
 #### Float
 
->b = 1. &nbsp; &nbsp; &nbsp; &nbsp; # Type float<br>
->c = 5.0 &nbsp; &nbsp; &nbsp; # Type float<br>
->d = 2e2&nbsp; &nbsp; &nbsp;# Type float<br> 
->e = 2e-2&nbsp; &nbsp; # Type float<br>   
+>`b = 1.` &nbsp; &nbsp; &nbsp; &nbsp; # Type float<br>
+>`c = 5.0` &nbsp; &nbsp; &nbsp; # Type float<br>
+>`d = 2e2`&nbsp; &nbsp; &nbsp;# Type float<br> 
+>`e = 2e-2`&nbsp; &nbsp; # Type float<br>   
 
 #### Conversion
 
 *conversion of int to float and vice versa*  
- >int(x)  
- >float(x)
+ >`int(x)`  
+ >`float(x)`
 
 *conversion of binary,hexadecimal,octal*
->bin(x)  
->hex(x)  
->oct(x)  
+>`bin(x)`  
+>`hex(x)`  
+>`oct(x)`  
 
 #### Calculation
 1. Addition
-    >x+y
+    >x + y
 2. Subtraction
     >x-y
 4. Multiplication
-    >x*y
+    >x * y
 5. Division  
 
     ***Division (`/`) always returns a float***
