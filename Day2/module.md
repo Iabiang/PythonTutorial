@@ -1,6 +1,6 @@
-### Built-in module
+### Built-in modules
 
-
+&nbsp;
 #### Random module
 
 Note:Before using the random module you have to import random
@@ -24,8 +24,8 @@ Note:Before using the random module you have to import random
 
 ***`random.press_tab_button` : shows all the available random methods***
 
-
-#### math module
+&nbsp;
+#### Math module
 
 Note:Before using the math module you have to import math
 
