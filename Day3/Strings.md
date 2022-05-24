@@ -55,7 +55,7 @@
 
 #### Accessing Strings
 
-s = 'Hello'  
+`s = 'Hello' ` 
 &nbsp;  
 >s[0] &nbsp; # character in position 0
 >>'H' &nbsp; # Output  
@@ -65,6 +65,47 @@ s = 'Hello'
 
 >s[1:3] &nbsp; # gives characters **[starting(*inclusive*) : upto_stop(*exclusive*) ]**
 >>'el'  &nbsp; # Output
+
+&nbsp;  
+
+`s1='Hello'`
+
+`s2='World'`  
+
+>print(s1,s2) &nbsp; #Accessing the strings stored in variable s1 and s2
+>>Hello World &nbsp; #Output
+
+>print('This is the first word:',s1,'.This is the second word:',s2)
+>>This is the first word: Hello .This is the second word: World
+
+&nbsp;  
+
+*Accessing using `f string`*
+
+>print(f'This is the first word:{s1} .This is the second word:{s2}') &nbsp; # note the r before the quote
+>>This is the first word:Hello .This is the second word:World
+
+&nbsp;  
+
+&nbsp;  
+  
+#### Concatenating Strings
+
+*Strings can be concatenated with the `+` operator, and repeated with `*`*
+
+>'hello'+'world'
+>>'Helloworld' # Output
+
+>2 * 'hello'
+>>'hellohello' # Output  
+
+&nbsp;  
+
+***declare `s` as a string first***
+
+***`s.press_tab_button` : shows all the available strings methods***
+
+(Note: press_tab_button is not a command you have to press the tab button)
 
 &nbsp;  
 
