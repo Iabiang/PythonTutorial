@@ -63,5 +63,8 @@ s = 'Hello'
 >s[-1] &nbsp; # character in last position
 >>'o' &nbsp; # Output
 
+>s[1:3] &nbsp; # gives characters **[starting(*inclusive*) : upto_stop(*exclusive*) ]**
+>>'el'  &nbsp; # Output
+&nbsp;  
 
 ***NOTE: All these commands runs in ipython or any interactive interperter*** 
