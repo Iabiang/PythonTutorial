@@ -1,6 +1,5 @@
 ### Strings
 
-
 #### Declaring Strings
 
 &nbsp;  
@@ -30,11 +29,39 @@
 >>&nbsp;  
 >>First line.  
 >>Second line. 
->&nbsp;
-
 
 >print("Dear Sir/Ma'am,`\n \t`Start line after tab.")
 >>Output :  
 >>&nbsp;  
 >>Dear Sir/Ma'am,  
->>&nbsp; &nbsp; Start line after tab..
+>>&nbsp; &nbsp; Start line after tab.  
+
+&nbsp;  
+
+*If you don’t want characters prefaced by `\` to be interpreted as special characters, you can use `raw strings` by adding an `r` before the first quote*
+
+>print('C:\some\name') &nbsp; &nbsp; # here \n means newline!
+>>Output :  
+>>&nbsp;  
+>>C:\some  
+>>ame  
+
+>print(r'C:\some\name') &nbsp; &nbsp; # note the r before the quote  
+>>Output :  
+>>&nbsp;  
+>>C:\some\name  
+
+&nbsp;  
+
+#### Accessing Strings
+
+s = 'Hello'  
+&nbsp;  
+>s[0] &nbsp; # character in position 0
+>>'H' &nbsp; # Output  
+
+>s[-1] &nbsp; # character in last position
+>>'o' &nbsp; # Output
+
+
+***NOTE: All these commands runs in ipython or any interactive interperter*** 
