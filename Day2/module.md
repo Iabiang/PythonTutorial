@@ -20,9 +20,12 @@ Note:Before using the random module you have to import random
 
     >random.choice([1, 2, 3, 4, 5] ,2)  &nbsp; #  generate a random value within the given list ; returns 2 value
 
+&nbsp;  
 ***`random?` : to get more information on random.***  
 
-***`random.press_tab_button` : shows all the available random methods***
+***`random.press_tab_button` : shows all the available random methods***  
+
+(Note: press_tab_button is not a command **you** have to *press the tab button*)
 
 &nbsp;
 #### Math module
@@ -43,6 +46,9 @@ Note:Before using the math module you have to import math
 
     >math.gcd(25,5) &nbsp; # Return the greatest common divisor of 25 and 5 i.e. 5
 
+&nbsp;  
 ***`math?` : to get more information on math.***  
 
-***`math.press_tab_button` : shows all the available math methods***
+***`math.press_tab_button` : shows all the available math methods***  
+
+(Note: press_tab_button is not a command **you** have to *press the tab button*)
