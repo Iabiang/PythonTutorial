@@ -3,7 +3,9 @@
 
 #### Random module
 
-**import random**
+Note:Before using the random module you have to import random
+
+**`import random`**
 
 1. `random.randint(range)` &nbsp; # generate a random int value ; inclusive 
 
@@ -20,12 +22,14 @@
 
 ***`random?` : to get more information on random.***  
 
-***`random.press_tab` : shows all the available random methods***
+***`random.press_tab_button` : shows all the available random methods***
 
 
 #### math module
 
-**import math**
+Note:Before using the math module you have to import math
+
+**`import math`**
 
 1. `math.floor(x)` &nbsp; # Return the floor of x as an Integral
 
@@ -41,4 +45,4 @@
 
 ***`math?` : to get more information on math.***  
 
-***`math.press_tab` : shows all the available math methods***
+***`math.press_tab_button` : shows all the available math methods***
