@@ -101,11 +101,11 @@
 
 &nbsp;  
 
-***declare `s` as a string first***
+***Declare `s` as a string first***
 
 ***`s.press_tab_button` : shows all the available strings methods***
 
-(Note: press_tab_button is not a command you have to press the tab button)
+(Note: *press_tab_button* is not a command you have to press the tab button)
 
 &nbsp;  
 
