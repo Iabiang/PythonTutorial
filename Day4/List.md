@@ -68,3 +68,14 @@ syntax: `list.insert(index,element)`
 >list.pop(2) &nbsp; &nbsp; # removes the item at index 2
 >[1, 2, 4] &nbsp; #output
 
+&nbsp;  
+
+***Declare `list` as a list first***
+
+***`list.press_tab_button` : shows all the available list methods***
+
+(Note: *press_tab_button* is not a command you have to press the tab button)
+
+&nbsp;  
+
+***NOTE: All these commands runs in ipython or any interactive interperter*** 
