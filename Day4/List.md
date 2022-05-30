@@ -78,4 +78,4 @@ syntax: `list.insert(index,element)`
 
 &nbsp;  
 
-***NOTE: All these commands runs in ipython or any interactive interperter*** 
+***NOTE: All these commands runs in ipython*** 
