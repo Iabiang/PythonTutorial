@@ -1,6 +1,6 @@
 ### List
 
-`l = []` &nbsp; &nbsp; &nbsp; # Type List  
+`list = []` &nbsp; &nbsp; &nbsp; # Type List  
 
 >`list = [1, 2, 3, 4, 5]`  
 >&nbsp;  
