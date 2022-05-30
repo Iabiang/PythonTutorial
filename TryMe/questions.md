@@ -4,3 +4,4 @@
     3. octal
 2. Given number ,generate a random dice number and if the dice is the same as the number you've win else you've lost.
 3. Given two random numbers if the sum of the two numbers is equal or greater than 10 then you've won else you've lost. Loop till you win and count the number of loops till you win.
+4. Given a sentence count the number of vowels.
