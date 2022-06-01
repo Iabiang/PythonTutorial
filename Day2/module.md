@@ -18,7 +18,7 @@ Note:Before using the random module you have to import random
 
 3. `random.sample([list],n)`  &nbsp; #  generate a random value within the given list ; n-> return n value
 
-    >random.choice([1, 2, 3, 4, 5] ,2)  &nbsp; #  generate a random value within the given list ; returns 2 value
+    >random.sample([1, 2, 3, 4, 5] ,2)  &nbsp; #  generate a random value within the given list ; returns 2 value
 
 &nbsp;  
 ***`random?` : to get more information on random.***  
